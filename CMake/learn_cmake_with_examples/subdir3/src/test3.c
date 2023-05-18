@@ -3,5 +3,5 @@
 
 void test3()
 {
-    printf("wah g wah 3\n");
+    printf("Executing test3() api from test3.c file\n");
 }

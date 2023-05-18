@@ -1,4 +1,3 @@
-# farhat
 1. Create a directory e.g. "build" for Makefiles and objects
     mkdir build
 2. Run below command to run CMake to create make files
